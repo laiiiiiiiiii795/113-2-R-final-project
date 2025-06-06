@@ -10,4 +10,5 @@ Fill in the following two links.
 
 ---
 If there is other relevant information put it below:
-
+https://chatgpt.com/share/6842b567-30f0-8008-b99b-56b4823beb6c
+https://chatgpt.com/share/6842b52f-5afc-8008-9262-f8875222c02d
